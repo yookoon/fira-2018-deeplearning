@@ -18,6 +18,7 @@ Evaluated on Mini-ImageNet.
 ## Instructions
 
 1. Download the images: https://drive.google.com/open?id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE
+
 wget --no-check-certificate -r 'https://docs.google.com/uc?export=download&id=0B3Irx3uQNoBMQ1FlNXJsZUdYWEE' -O FILENAME.zip
 
 2. Make a folder `materials/images` and put those images into it.
